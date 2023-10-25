@@ -1,0 +1,23 @@
+.Form-title{
+    text-align: center;
+    padding:20px;
+}
+.sub-heading{
+    text-align:center;
+    padding:15px 20px;
+}
+.container-form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width:500px;
+}
+.input-field{
+    width:500px;
+}
+.main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top:-3px;
+}
